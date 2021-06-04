@@ -1,7 +1,7 @@
 # Global-TEP
 Global-TEP is a global solver for TEP (transmission expansion planning) problem considering the AC model of the transmission network.
 
-# Developers
+## Developers
 Global-TEP has been developed by:
 
     
