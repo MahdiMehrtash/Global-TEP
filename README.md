@@ -24,7 +24,7 @@ If you find Global-TEP useful for your work, you might cite the manuscript:
     url="https://ieeexplore.ieee.org/document/9445630"
     }
 
-## TODO
+## TO DO
     compatible with Julia 1.6
     compatible with the lastest version of JuMP
     Support MINLP
