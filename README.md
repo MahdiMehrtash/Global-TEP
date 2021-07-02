@@ -25,8 +25,8 @@ If you find Global-TEP useful for your work, you might cite the manuscript:
     }
 
 ## Features
-    compatible with Julia 1.6
-    compatible with the lastest version of JuMP
+    Compatible with Julia 1.6
+    Compatible with the lastest version of JuMP
     Support MINLP
     Support parallel computing
     
